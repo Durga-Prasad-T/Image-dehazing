@@ -97,7 +97,7 @@ Adjustable in the code:
 
 ## Author
 
-[Durga Prasad] - [https://github.com/Durga45t]
+Durga Prasad - https://github.com/Durga45t
 
 ---
 
