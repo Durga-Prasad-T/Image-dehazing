@@ -100,5 +100,3 @@ Adjustable in the code:
 Durga Prasad - https://github.com/Durga45t
 
 ---
-
-*This project demonstrates image processing techniques including haze removal, color correction, weight map fusion, and multi-scale pyramid blending.*
